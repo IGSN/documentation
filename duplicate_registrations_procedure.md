@@ -11,7 +11,15 @@ The lab assigns a new IGSN, based on the assumption that no prior registration e
 Already existing IGSN registrations must be respected to maintain an unambiguous identification of a sample. 
 The second registration 
 
-## Samples that change institutions (or allocating agents)
+## Subsample taken outside of the home institution
+
+### Example
+
+Cores and/or subsamples are shipped to other institutions for additional scans, detailed analyses, and subsampling/splitting.
+
+### Procedure
+
+## Samples are moved from one institution (or allocating agent) to another (change of curating institution)
 
 ### Example
 
